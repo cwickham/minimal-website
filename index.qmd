@@ -3,6 +3,7 @@ title: "Alicia"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
+image-alt: "Photo of a door partially open revealing a green landscape"
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
