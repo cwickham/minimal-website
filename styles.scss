@@ -5,9 +5,10 @@
 
 $body-bg: white; 
 $body-color: #333333;
+$primary: #333333;
 
-// Common variables to add a bit more color: $link-color, $headings-color, $navbar-color
-$link-color: #333333;
+// Common variables to add a bit more color: $link-color, $headings-color, $navbar-bg
+$navbar-bg: #eeeeee;
 
 // Code background a bit closer to text color
 $code-color: $body-color;
