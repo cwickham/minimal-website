@@ -17,8 +17,13 @@ $code-bg: $code-block-bg;
 
 /*-- scss:rules --*/
 
+
 // Put CSS rules down here
 .nav-link.active {
     text-decoration: underline;
     text-underline-offset: 4px;
 }
+
+.code-with-filename .code-with-filename-file {
+    background-color: theme-fade($body-bg, $body-color, 10%);
+  }
